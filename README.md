@@ -47,9 +47,8 @@ Paypal​ ​Here:​ ​​https://www.paypal.com/us/webapps/mpp/credit-card-re
 * Landing
 * UI Kit de Andes UI (Libreria oficial de MercadoLibre)
 
-
-Si te sirvió te olvidés de dejar tu 🌟
+Link de figma community <a href="https://www.figma.com/community/file/1279244604346511379/mercadolibre-challange-ema-lozada">MeLi Challenge</a>
 
 ---
 
-No te quedes acá, hace tu propuesta para este challenge!
+Si te sirvió te olvidés de dejar tu 🌟
