@@ -1,5 +1,5 @@
 # mercadolibre-ux-ui-challenge
-![MercadoLibre](./src/favicon.svg "MercadoLibre")
+![MercadoLibre]([./src/favicon.svg "MercadoLibre"](https://http2.mlstatic.com/frontend-assets/homes-palpatine/logo_homecom_25.png))
 
 # MercadoLibre challenge
 En​ ​MercadoLibre​ ​estamos​ ​trabajando​ ​en​ ​el​ ​producto​ ​​MercadoPago​ ​POS​,​ ​una​ ​aplicación​ ​mobile (Android​ ​y​ ​iOS)​ ​que​ ​permite​ ​cobrar​ ​con​ ​tarjeta​ ​de​ ​crédito​ ​a​ ​través​ ​de​ ​MercadoPago​ ​desde​ ​cualquier lugar.​ ​Esta​ ​aplicación​ ​funciona​ ​con​ ​un​ ​lector​ ​de​ ​tarjetas​ ​de​ ​crédito​ ​que​ ​se​ ​conecta​ ​con​ ​el​ ​dispositivo​ ​a través​ ​de​ ​Bluetooth.
