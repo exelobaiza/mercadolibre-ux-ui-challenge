@@ -29,11 +29,11 @@ Todos​ ​los​ ​diseños​ ​realizados​ ​para​ ​este​ ​eje
 
 
 # Referencias
-Square:​ ​​https://squareup.com/reader
-Pagseguro:​ ​​https://pagseguro.uol.com.br/venda-pelo-celular/
-iZettle:​ ​​https://www.izettle.com/
-Sumup:​ ​​https://sumup.com.br/
-Paypal​ ​Here:​ ​​https://www.paypal.com/us/webapps/mpp/credit-card-reader
+* Square:​ ​​https://squareup.com/reader
+* Pagseguro:​ ​​https://pagseguro.uol.com.br/venda-pelo-celular/
+* iZettle:​ ​​https://www.izettle.com/
+* Sumup:​ ​​https://sumup.com.br/
+* Paypal​ ​Here:​ ​​https://www.paypal.com/us/webapps/mpp/credit-card-reader
 
 # Este Repo Incluye
 
